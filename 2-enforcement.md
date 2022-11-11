@@ -44,25 +44,16 @@ Anecdotal evidence and eyewitness testimony are imperfect. Whenever possible, do
 # 2.2 Proof
 It is not enough to clearly indicate that someone has done something wrong, proof must exist that a normal Sansarian would find believable, that specifically indicates conduct was violated.
 
-# 2.3 Hearings
-For enforcement to be enacted, a hearing must be held asynchronously and in public. Because a hearing cannot be held immediately, and time must be provided for people to discuss the issue, temporary enforcement can be enacted.
+## 2.3.0 Temporary enforcement
+Temporary enforcements can be enacted to protect the Sansar community between when the violation is suspected and when the investigation or detailed review is completed. A temporary enforcement cannot last more than 7 days. A temporary enforcement is limited to prevention of use.
 
-## 2.3.1 Temporary enforcement
-Temporary enforcements can be enacted to protect the Sansar community between when the violation is suspected and when the hearing is had. A temporary enforcement cannot last more than 7 days. A temporary enforcement is limited to prevention of use.
-
-## 2.3.2 Speech acts
+## 2.3.1 Speech acts
 Speech is not clear. Unlike laws in many countries today, Sansar does not observe a speech act as any form of law or enforcement. It is not enough to simply declare something. It must be written, and public, so that it can be examined and attacked.
-
-## 2.3.3 Hearing transcript
-Hearing transcripts can exist in the form of anything that can both be proven externally, and require email address or other accepted verification attached to a Sansarian, be it email, slack, Discord, Google Chat, etc. However, GitHub or other event-based systems or systems with history that cannot be altered are strongly preferred.
-
-## 2.3.4 Hearing timeframe
-Hearings are asynchronous. They can last up to a week. This is intentional and to give people time to relax and understand a situation. If a hearing does not prove a violation occurred, an act of enforcement cannot be put in place.
 
 # 2.4 Appeals
 Anyone can appeal an enforcement act at any time, however, it is more likely that the correct thing to do is to change the law itself. If you change a law that is cited in your enforcement act, you will automatically receive an appeal, and that appeal is likely going to automatically vindicate you. What is more, you will prevent the injustice happening to someone else.
 
-Appeals, when granted, are conducted exactly like a hearing.
+Appeals, when granted, are conducted through asyncronous messaging be it email, slack, Discord, Google Chat, etc. However, GitHub or other event-based systems or systems with history that cannot be altered are strongly preferred.
 
 ## 2.4.1 Appeal timeframe
 Appeals can be costly, especially when they are unlimited, therefore it may take an extended period of time for an appeal. Appeals are a last resort. Instead, make a pull request to change the law itself, which will fix every single poor judgement affected by the laws you changed.
