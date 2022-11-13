@@ -90,4 +90,13 @@ Your feelings, if you have been wronged, or accused of wrongdoing, should not co
 # 2.10 Authorities
 Appealing to authority is a logical fallacy. Sansar elects, at will, people to enforce Sansarian law, but the law itself is yours, and the actions taken are public. If you find an authority is unjust, ask for them to be trained or removed. Nobody is the boss of you except logic and reason, and on our platform, kindness.
 
-4.1 If user comes into a populated world that isn't sansar created(private user world) and pouches users from that world to take to their private world this is against sansar law. It causes harm to sansar because whatever the user with the populated world is organically bringing people into is working to bring fun and enjoyment to those users. Users should encourage to inovate and come up with ideas to bring that same fun and enjoyment to people that visit their world but on their own time not the time of the person with populated world. This include sansar employees. Violation of this law cannot lead to permanent ban. It can lead to a temporary service ban or other punishment in replace of service ban scarlet letter that must be worn on the avatar visible as accesory for time period of punishment to show they are a poucher. Punishment can be up to 2 months with scarlet letter
+# 4.1 Pouching Law
+If user comes into a populated world that isn't sansar created(private user world) and pouches users from that world to take to their private world this is against sansar law. It causes harm to sansar because whatever the user with the populated world is organically bringing people into is working to bring fun and enjoyment to those users. Users should encourage to inovate and come up with ideas to bring that same fun and enjoyment to people that visit their world but on their own time not the time of the person with populated world. This include sansar employees. Violation of this law cannot lead to permanent ban. It can lead to a temporary service ban or other punishment in replace of service ban scarlet letter that must be worn on the avatar visible as accesory for time period of punishment to show they are a poucher. Punishment can be up to 2 months with scarlet letter
+
+1st offense(documented, public) verbal warning by moderation. Evidence is needed.
+2nd offense(documented, public) two day temp ban or two days with scarlet letter
+3rd offense(documented, public) one week temp ban or one week with scarlet letter
+4th offense(documented, public) two weeks temp ban or two weeks with scarlet letter
+5th offense(documented, public) one month temp ban or one month with scarlet letter
+6th and every offense after(documented, public) two months temp ban or two months scarlet letter
+
