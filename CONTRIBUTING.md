@@ -13,7 +13,7 @@ You can use the table of contents icon in the top left corner of this document t
 To get an overview of the project, read the [README](README.md).  Here are some resources to help you get started with open source contributions:
 
 > **Note**  
-> You do not need to know how to make a PR to contribute. Opening a [Discussion](https://github.com/3MUl0R/magna-carta/discussions) or an [Issue](https://github.com/Wookey-Technologies/magna-carta/issues) will allow the community to help decide on the best action and someone else will create the PR for you.
+> You do not need to know how to make a PR to contribute. Opening a [Discussion](https://github.com/Wookey-Technologies/magna-carta/discussions) or an [Issue](https://github.com/Wookey-Technologies/magna-carta/issues) will allow the community to help decide on the best action and someone else will create the PR for you.
 
 - [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
 - [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
