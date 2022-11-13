@@ -96,4 +96,6 @@ The two moderators from users must be active members and serve a 3 month term(su
 
 Punishment from moderation does not have to go the extreme of a ban. It could be a first a verbal conversation(has to be documented and public). That conversation can be in form of communication but documented, discord private message, email, sansar private message, and possibly video record. User needs to know he is being moderated in these communications. User cannot abuse moderator because he is doing official moderation duty for the Realm that is the law. Accused user should defend their actions at that point. Does not have to lead to temporary or permanent ban. Just a conversation that someone has made accusation. 
 
+Helpers are not moderators
+
 
