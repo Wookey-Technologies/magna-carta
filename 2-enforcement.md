@@ -91,12 +91,24 @@ Your feelings, if you have been wronged, or accused of wrongdoing, should not co
 Appealing to authority is a logical fallacy. Sansar elects, at will, people to enforce Sansarian law, but the law itself is yours, and the actions taken are public. If you find an authority is unjust, ask for them to be trained or removed. Nobody is the boss of you except logic and reason, and on our platform, kindness.
 
 #3.1 Protecting the integrity of the Sansar Marketplace
-It is harmful to the marketplace when a user of sansar uploads an Avatar, accesory, or 3d model that is not there own. it is unfair to an artist to compete with other people calling themselves artist that dont make their own art. No matter if the excuse is that the item is for free or is for people that are new users that dont know how to build. You as a user of sansar after November 12th 2022 cannot upload any model to the sansar marketplace that is not there own creation. Your own creation is not an edit to someone else creation and is forbidden. Made from scratch in standard 3d software means your creation by you or partnership between two or more artists in collaboration are allowed only. 
+It is harmful to the marketplace and original creators when a user of Sansar uploads an Avatar, Accessory, or any kind of 3d model which is not owned or created by them. 
+It's unfair for an artist to compete with other people who can upload a model for sell in a second, not being created by them. 
+No matter if the excuses implies that the item for uploaded for free or for people who don't know how to build or use a 3D application. 
+Starting November.12.2022, any existing and future resident users of Sansar cannot upload any 3D model on the Sansar Marketplace if is not created or owned by them. 
+Your creation must be original and not created or modified from an existing model. 
+Your creation must be done from scratch, made with the standard 3d softwares out there, e.g "Blender, Maya, 3Dmax, 3DCoat, Marvelous designer, Cinema (C4D), CAD, MODO, Sketchup, etc".
+You are allowed to collaborate with other artists in order to finish your creation, as long as it respects originality, and created from scratch.
 
-if another concerned sansar user can bring solid evidence of this violation of sansar law. Evidence must be looked into by sansar moderation with full severity of violation. We as 3d artist that make models off of pure imagination and in spirit of generating original content should not have to deal with people that dont want to be original and do the same. 3d modeling can be learned and it just takes time. It is a requirement to upload to the store to take the time to learn. Violating this law harms sansar because its a loss to sansar because talented artist may not be part of sansar due to competing stolen mesh model which doesnt allow sansar to be at its biggest potential in the 3d art gaming industry. 
 
-you can bring in whatever 3d mesh for your personal experience for use but cannot sell in the marketplace
+Any user with an account in Sansar is allowed to file a report regarding an infringement related to this law. Evidence must presented for comparison with the original art and original creator, then be looked into by Sansar moderation staff with full severity on the violation. 
+The actual 3D artists who create 3D art out of pure imagination, and in spirit of generating original content, should not have to deal with such individuals. People who don't want to be original, without going through similar workflow and hardwork as an original creator. 
+3D modeling can be learned, it just takes time. It is a requirement for you in order to upload on the store, to take the time and learn the right tools, but also to stay away from using someone else's work if you want to sell on Sansar marketplace . 
+Violating this law will harm Sansar community, but also the company, and that is because most of the talented artists will accept, or want to be part of Sansar due to competing stolen or freeshare art, which which stops Sansar to max it's potential in the 3d art gaming industry.
 
-1st volation is a verbal warning and enforcement is removal and offending user understanding why it was removed. (documented public enforcement)
+
+You can use 3d models from third party sources, not created by you, only in your personal experience, but cannot Sold on the marketplace in any way shape or form.
+
+1st volation is a verbal warning and enforcement is removal and offending user understanding why it was removed. (documented public enforcement) 
+violation cant be commited until user is informed of first violation by moderation and commits second violation. violations because of harsh punishment cant be incurred at once
 2nd violation is suspension of marketplace for one month. no upload no cashout of monies (documented public enforcement)
 3rd violation complete bann of store which mean a complete bann of your avatar and account (documented public enforcement)
