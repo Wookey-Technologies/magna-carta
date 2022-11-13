@@ -88,7 +88,7 @@ If someone receives an enforcement act, and the person they violated decides to 
 Your feelings, if you have been wronged, or accused of wrongdoing, should not come into play in any regard. You will not get a free pass if you violate a law while being heard for violating a law. Please keep yourself calm, cool, collected, and attack the act instead of the person in every situation.
 
 # 2.10 Authorities
-Appealing to authority is a logical fallacy. The active users elects, at will, people to enforce Sansarian law, but the law itself is yours, and the actions taken are public. If you find an authority is unjust, ask for them to be trained or removed. Nobody is the boss of you except logic and reason, and on our platform, kindness.
+Appealing to authority is a logical fallacy. The active users elects, at will, people to enforce Sansarian law, but the law itself is yours, and the actions taken are public. If you find the authority being unjust, review their action and ask for them to be educated. Nobody is above you, except law, logic, and reason, and the kindness of our platform.
 
 There will be a 2/2 rule for sansar moderation. 2 employees as moderation and 2 active users as moderation. These moderators are voted on by verified active users with one vote on main avatar. Sansar must provide a list of staff members that want the job and the list has to be long enough to allow for a choice. Sansar cannot just give two staff members. 5 at minimum to choose from. serve a 3 month term(subject to change if the community feels they are good at moderating)
 
