@@ -89,3 +89,12 @@ Your feelings, if you have been wronged, or accused of wrongdoing, should not co
 
 # 2.10 Authorities
 Appealing to authority is a logical fallacy. Sansar elects, at will, people to enforce Sansarian law, but the law itself is yours, and the actions taken are public. If you find an authority is unjust, ask for them to be trained or removed. Nobody is the boss of you except logic and reason, and on our platform, kindness.
+
+# 4.1 VR Crimes
+User of sansar may not grope another user of sansar in a sexual way if the act is unwanted. Wanted acts are allowed. Unwanted acts are forbidden. Victim must make it known the act is unwanted verbally one time. They can use another user as a representative to let the Bad acting user know they are violating the law. Victim has to let it known that person is representing them. 
+
+Unwanted Groping in VR hurts sansar because any reproduction of act(video recording) uploaded to social medias might make the public think that such things are acceptable on SANSAR metaverse. 
+
+Moderation must give verbal warning and user must comply because moderation is doing official sansar business(moderation is documented and public).
+If user doesnt comply 24 hour ban.
+Commiting this crime again after first 24 hour ban user recieves Temporary service ban and investigation(trial) from moderation. Swift permanent service banishment if found guilty but stronge evidence must be provided,documented, and public due to severity of punishment. Avatar will die forever
