@@ -112,3 +112,9 @@ You can use 3d models from third party sources, not created by you, only in your
 violation cant be commited until user is informed of first violation by moderation and commits second violation. violations because of harsh punishment cant be incurred at once
 2nd violation is suspension of marketplace for one month. no upload no cashout of monies (documented public enforcement)
 3rd violation complete bann of store which mean a complete bann of your avatar and account (documented public enforcement)
+
+No Use of CC0 models due to Sansar can't extend certain licenses for some content. 
+
+Use of the Mesh given by sansar studios to make a product  is allowed
+
+
