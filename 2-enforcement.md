@@ -50,6 +50,11 @@ Temporary enforcements can be enacted to protect the Sansar community between wh
 ## 2.3.1 Speech acts
 Speech is not clear. Unlike laws in many countries today, Sansar does not observe a speech act as any form of law or enforcement. It is not enough to simply declare something. It must be written, and public, so that it can be examined and attacked.
 
+# 2.3.2 
+Users may not engage in discussions about 3d modeling, how to animating, how to rigging, 3d tech talk, community guideline discussion in the official Sansar created welcome worlds for new users. Also they may not talk about their grievences with sansar in these worlds. Conversations to new users of the possibilties of sansar through 3d is allowed but should be brief. Users should be encouraged to take that to  personal worlds or designated meeting places for that talk. Users should  make a world for talking about this violating speech so its a known meeting place for users old and new to learn inside sansar.
+
+Is categorized as etiquette violation
+
 # 2.4 Appeals
 Anyone can appeal an enforcement act at any time, however, it is more likely that the correct thing to do is to change the law itself. If you change a law that is cited in your enforcement act, you will automatically receive an appeal, and that appeal is likely going to automatically vindicate you. What is more, you will prevent the injustice happening to someone else.
 
