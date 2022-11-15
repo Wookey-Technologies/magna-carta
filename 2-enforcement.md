@@ -69,11 +69,12 @@ Any enforcement act must:
 In this way, any enforcement act can be automatically repealed by changing the statutes involved.
 
 ## 2.5.1 Types of enforcement acts
-
-1. Temporary platform ban (for longer than 7 days)
-2. Permanent platform ban
-3. Temporary service ban (for longer than 7 days)
-4. Permanent service ban
+1. Etiquette violation (cannot lead to Temporary or permanent ban)
+2. Escalated etiquette violation (can lead to temporary or permanent ban)
+3. Temporary platform ban (for longer than 7 days)
+4. Permanent platform ban
+5. Temporary service ban (for longer than 7 days)
+6. Permanent service ban
 
 # 2.6 Changing Laws
 Any law can be changed by making a PR (Pull Request) to the law you wish to change. Include reasoning, razors, and insight in your argument. If your change is accepted, it takes effect immediately. If your change is not accepted, reasoning will be provided to you as to why, so you can attempt to correct the issue.
