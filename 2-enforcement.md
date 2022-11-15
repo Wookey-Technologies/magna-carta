@@ -66,6 +66,23 @@ Any enforcement act must:
 4. List the hearing transcript.
 5. Be searchable by violation or enforcement statute or transcript.
 
+2.5.1 Protecting the integrity of the Sansar Marketplace
+Starting November.12.2022, any existing and future resident users of Sansar cannot upload any 3D model on the Sansar Marketplace if is not created or owned by them including CC0 models.
+
+2.5.1.1 What's is done from scratch
+Your creation must be done from scratch, made with the standard 3d softwares out there, e.g "Blender, Maya, 3Dmax, 3DCoat, Marvelous designer, Cinema (C4D), CAD, MODO, Sketchup, etc".
+You are allowed to collaborate with other artists in order to finish your creation, as long as it respects originality, and created from scratch.
+
+Any user with an account in Sansar is allowed to file a report regarding an infringement related to this law. Evidence must presented for comparison with the original art and original creator, then be looked into by Sansar moderation staff with full severity of the violation.
+
+2.5.1.2 Exceptions
+You can use 3d models from third party sources, not created by you, only in your personal experience, but cannot Sold on the marketplace in any way shape or form.
+
+Use of the Mesh given by sansar studios to make a product is allowed
+
+2.5.1.3 Penalty classification
+Offense is classified as an offense that can lead to permanent ban.
+
 In this way, any enforcement act can be automatically repealed by changing the statutes involved.
 
 ## 2.5.1 Types of enforcement acts
@@ -89,3 +106,7 @@ Your feelings, if you have been wronged, or accused of wrongdoing, should not co
 
 # 2.10 Authorities
 Appealing to authority is a logical fallacy. Sansar elects, at will, people to enforce Sansarian law, but the law itself is yours, and the actions taken are public. If you find an authority is unjust, ask for them to be trained or removed. Nobody is the boss of you except logic and reason, and on our platform, kindness.
+
+
+
+
