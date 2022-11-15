@@ -89,3 +89,9 @@ Your feelings, if you have been wronged, or accused of wrongdoing, should not co
 
 # 2.10 Authorities
 Appealing to authority is a logical fallacy. Sansar elects, at will, people to enforce Sansarian law, but the law itself is yours, and the actions taken are public. If you find an authority is unjust, ask for them to be trained or removed. Nobody is the boss of you except logic and reason, and on our platform, kindness.
+
+# 2.11 Poaching Policy
+If one user comes into another users populated private world and poaches users from that world to take to their private world this is not allowed. This include sansar employees.
+
+Classified as escalated etiquette violation
+
