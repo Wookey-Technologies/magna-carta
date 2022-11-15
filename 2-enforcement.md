@@ -89,3 +89,10 @@ Your feelings, if you have been wronged, or accused of wrongdoing, should not co
 
 # 2.10 Authorities
 Appealing to authority is a logical fallacy. Sansar elects, at will, people to enforce Sansarian law, but the law itself is yours, and the actions taken are public. If you find an authority is unjust, ask for them to be trained or removed. Nobody is the boss of you except logic and reason, and on our platform, kindness.
+
+# 2.12 VR Violations
+It is not allowed grope another user of sansar in a sexual way if the act is unwanted. Wanted acts are allowed.
+
+The victim must make it known the act is unwanted verbally once. They can use another user as a representative to let the Bad acting user know they are violating policy. Victim has to let it known that person is representing them. 
+
+Can lead to permanent service ban(Death of avatar)
