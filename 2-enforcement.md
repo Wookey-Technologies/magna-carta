@@ -88,4 +88,22 @@ If someone receives an enforcement act, and the person they violated decides to 
 Your feelings, if you have been wronged, or accused of wrongdoing, should not come into play in any regard. You will not get a free pass if you violate a law while being heard for violating a law. Please keep yourself calm, cool, collected, and attack the act instead of the person in every situation.
 
 # 2.10 Authorities
-Appealing to authority is a logical fallacy. Sansar elects, at will, people to enforce Sansarian law, but the law itself is yours, and the actions taken are public. If you find an authority is unjust, ask for them to be trained or removed. Nobody is the boss of you except logic and reason, and on our platform, kindness.
+Appealing to authority is a logical fallacy. The active users elects, at will, people to enforce Sansarian law, but the law itself is yours, and the actions taken are public. If you find the authority being unjust, review their action and ask for them to be educated. Nobody is above you, except law, logic, and reason, and the kindness of our platform.
+
+# 2.10.1 Who is a moderator
+A moderator is 2 employees  and 2 active users voted on by verified active users with one vote through sansar official discord. Known and unknown alts voting is not allowed. Sansar must provide a list of staff members that don't mind moderating.The list has to be long enough to allow for a choice 5 at minimum to vote on. A helper is not a moderator
+
+# 2.10.2 Requirements and Terms of moderator
+serve a 3 month term(subject to change if the community feels they are good at moderating)
+
+Sansar Users that are voteda moderator if they cannot fulfill there moderating duty for reason of taking break from sansar or quitting they must make notification they do not want the job anymore and replaced.
+
+# 2.10.3 Good Moderation Practices
+
+Moderator should keep the neutral ground balance, and act according to the policies. If needing to act alone every moderation must be done with proper documentation and careful attention. Notify the other moderators immediately. In general don't intimidate, dont bird Dog(watching over every user waiting for them to need moderation). Let the flow and peoples fun always be the priority. You are a User/Staff Member first and moderator second
+
+Punishment from moderation does not have to go the extreme of a ban. It could be a first a verbal conversation(has to be documented and public). Communications discord private message, email, sansar private message, and possibly needing to be video recorded. User needs to know he is being moderated in these communications. User cannot abuse moderator because they are doing official moderation duty. Accused user should defend their actions during moderation from communication. Moderation does not have to lead to temporary or permanent ban. Just a conversation on accusation 
+
+
+
+
