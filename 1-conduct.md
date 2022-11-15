@@ -26,3 +26,19 @@ Digital creations are living things that can and should be continually improved 
 
 # 1.8 Mitigate
 It’s not enough to do no harm, we must actively work to counteract things that cause harm.
+
+# 2 Application
+
+This is the default Sansar conduct policy. It is user-genertated policy and not policy set by Sansar as a company.
+
+## 2,1 Terms Of Service
+
+No policy can contain anything that violates the Sansar Terms Of Service (TOS). If it does, the TOS will always superceede it.
+
+## 2.2 Adherance to local laws
+
+No policy can contain anything that violates real-world laws. All individuals must always obey laws within their legal jurisdictions.
+
+## 2.3 Scope
+
+This policy applies to all people that visit Sansar worlds, including Sansar employees.
