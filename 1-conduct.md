@@ -31,7 +31,7 @@ It’s not enough to do no harm, we must actively work to counteract things that
 
 This is the default Sansar conduct policy. It is user-genertated policy and not policy set by Sansar as a company.
 
-## 2,1 Terms Of Service
+## 2.1 Terms Of Service
 
 No policy can contain anything that violates the Sansar Terms Of Service (TOS). If it does, the TOS will always superceede it.
 
@@ -42,3 +42,9 @@ No policy can contain anything that violates real-world laws. All individuals mu
 ## 2.3 Scope
 
 This policy applies to all people that visit Sansar worlds, including Sansar employees.
+
+# 3 Behavior
+
+## 3.2 Sexual behavior
+
+On top of any applicable local laws you must follow, you cannot make sexual comments or behave in a sexual manner towards a user without their consent.
