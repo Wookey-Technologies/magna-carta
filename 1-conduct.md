@@ -42,3 +42,8 @@ No policy can contain anything that violates real-world laws. All individuals mu
 ## 2.3 Scope
 
 This policy applies to all people that visit Sansar worlds, including Sansar employees.
+
+# 3 Behavior
+
+## 3.1 Poaching
+You shouldn't ask people in a user-generated world to visit another world, as this can be harmful to the world creators economy.
