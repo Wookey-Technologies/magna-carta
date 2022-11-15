@@ -67,7 +67,7 @@ Any enforcement act must:
 5. Be searchable by violation or enforcement statute or transcript.
 
 2.5.1 Protecting the integrity of the Sansar Marketplace
-It is harmful to the marketplace and original creators when a user of Sansar uploads an Avatar, Accessory, or any kind of 3d model which is not owned or created by them. Starting November.12.2022, any existing and future resident users of Sansar cannot upload any 3D model on the Sansar Marketplace if is not created or owned by them including CC0 models.
+Starting November.12.2022, any existing and future resident users of Sansar cannot upload any 3D model on the Sansar Marketplace if is not created or owned by them including CC0 models.
 
 2.5.1.1 What's is done from scratch
 Your creation must be done from scratch, made with the standard 3d softwares out there, e.g "Blender, Maya, 3Dmax, 3DCoat, Marvelous designer, Cinema (C4D), CAD, MODO, Sketchup, etc".
