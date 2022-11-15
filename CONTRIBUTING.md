@@ -29,7 +29,7 @@ For more information on how we write markdown files, see [the GitHub Markdown re
 
 #### Create a new issue or Discussion
 
-If you spot a problem in the Magna Carta documents you should first search if an [issue](https://github.com/Wookey-Technologies/magna-carta/issues) or relevant [discussion](https://github.com/3MUl0R/magna-carta/discussions) already exists.  
+If you spot a problem in the Magna Carta documents, you should first search if an [issue](https://github.com/Wookey-Technologies/magna-carta/issues) or relevant [discussion](https://github.com/3MUl0R/magna-carta/discussions) already exists.  
 Here's info on [how to search issues & PR on GitHub](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments).  
 If a related issue or discussion doesn't exist, you can open a new one of the appropriate type.
 - issues are good for raising concerns about problems you may have with existing content: [new issue form](https://github.com/Wookey-Technologies/magna-carta/issues/new/choose)
@@ -43,7 +43,7 @@ As a general rule, we don’t assign issues to be resolved by anyone specificall
 ### Making Changes
 
 > **Note**  
-> Incase you missed it, you do not need to know how to make a PR to contribute. Opening a Discussion or an Issue will allow the community to help decide on the best action and someone else can do the heavy lifting of creating the PR.
+> In case you missed it, you do not need to know how to make a PR to contribute. Opening a Discussion or an Issue will allow the community to help decide on the best action and someone else can do the heavy lifting of creating the PR.
 
 #### Make changes in the web UI
 
